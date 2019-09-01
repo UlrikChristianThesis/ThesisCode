@@ -1,9 +1,7 @@
 # ThesisCode
 Christian and Ulrik Thesis Code
 
-:Linux:
-
-:::How to compile using clang++ or g++:::
+Tested with clang++ 7.0 and g++ 9.1.0
 
 g++/clang++ *.cpp -o output -std=c++17
 
