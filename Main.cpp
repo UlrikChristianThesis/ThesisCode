@@ -22,8 +22,8 @@
 #define lower_              50.
 #define anchor_             100.
 
-#define r_                  0.   // 0.
-#define q_                  0.   // 0.
+#define r_                  0.   // Assumes to to be 0 throughout the thesis
+#define q_                  0.   // Assumes to to be 0 throughout the thesis
 #define v0_                 0.04 // 0.04
 #define vT_                 0.05 // 0.05
 #define rho_                -.7  // -.7
